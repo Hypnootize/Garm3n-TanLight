@@ -1,37 +1,15 @@
 "GameMenu" [$WIN32]
 {
-	"CasualButton"
-	{
-		"label" "Play Casual" 
-		"command" "play_casual"
-		"subimage" "glyph_multiplayer"
-	}
-	"CompetitiveButton"
-	{
-		"label" "Play Competitive" 
-		"command" "play_competitive"
-		"subimage" "glyph_practice"
-	}
-	"MvMButton"
-	{
-		"label" "Play MvM" 
-		"command" "play_mvm"
-		"subimage" "glyph_coop"
-		"OnlyAtMenu" "1"
-	}
 	"ServerBrowserButton"
 	{
-		"label" "#MMenu_BrowseServers" 
-		"command" "OpenServerBrowser"
-		"subimage" "glyph_server_browser"
-		"OnlyAtMenu" "1"
-	} 
-	"ChangeServerButton"
+		"label"			"Browse Servers"
+		"command"		"OpenServerBrowser"
+		"OnlyAtMenu"	"0"
+		"subimage" 		"glyph_server_browser"
+	}
+	"TF2SettingsButton"
 	{
-		"label" "#MMenu_ChangeServer" 
-		"command" "OpenServerBrowser"
-		"subimage" "glyph_server_browser"
-		"OnlyInGame" "1"
+		"tooltip"			""
 	}
 	"ReplayBrowserButton"
 	{
@@ -39,11 +17,19 @@
 		"command" "engine replay_reloadbrowser"
 		"subimage" "glyph_tv"
 	}
-	"SteamWorkshopButton"
+	"ServerButton6vs6"
 	{
-		"label" "#MMenu_SteamWorkshop"
-		"command" "engine OpenSteamWorkshopDialog"
-		"subimage" "glyph_steamworkshop"
+		"label" "Scoreboard 6 vs 6"
+		"command" "engine cl_hud_minmode 1"
+		"subimage" "glyph_practice"
+		"OnlyAtMenu" "0"
+	}
+	"ServerButton12vs12"
+	{
+		"label" "Scoreboard 12 vs 12"
+		"command" "engine cl_hud_minmode 0"
+		"subimage" "glyph_practice"
+		"OnlyAtMenu" "0"
 	}
 	
 	// These buttons get positioned by the MainMenuOverride.res	
@@ -69,13 +55,7 @@
 
 	// These buttons are only shown while in-game
 	// and also are positioned by the .res file
-	"ResumeGameButton"
-	{
-		"label"			"#MMenu_ResumeGame"
-		"command"		"ResumeGame"
-		"OnlyInGame"	"1"
-		"subimage" "icon_resume"
-	}
+	
 	"CallVoteButton"
 	{
 		"label"			""
