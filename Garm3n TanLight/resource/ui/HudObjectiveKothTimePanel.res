@@ -23,7 +23,8 @@
 		
 		if_match
 		{
-			"xpos"				"31"
+			"xpos"			"31"
+			"ypos"			"-9"
 		}
 		
 		"TimePanelValue"
@@ -31,27 +32,20 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontGarm3nDigital"
-			"font_lodef"	"HudFontGarm3nDigital"
 			"fgcolor"		"HUDBlueTeamSolid"
 			"xpos"			"23"
-			"xpos_hidef"	"114"
-			"xpos_lodef"	"114"
 			"ypos"			"11"
-			"ypos_hidef"	"15"
-			"ypos_lodef"	"18"
 			"zpos"			"3"
 			"wide"			"60"
-			"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"font"			"HudFontGarm3nTiniest"
-				"ypos"			"2"
+				"font"		"HudFontGarm3nTiniest"
 			}
 		}	
 	}
@@ -70,35 +64,29 @@
 		
 		if_match
 		{
-			"xpos"				"65"
+			"xpos"			"66"
+			"ypos"			"-9"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontGarm3nDigital"
-			"font_lodef"	"HudFontGarm3nDigital"
 			"fgcolor"		"HUDRedTeamSolid"
 			"xpos"			"23"
-			"xpos_hidef"	"114"
-			"xpos_lodef"	"114"
 			"ypos"			"11"
-			"ypos_hidef"	"15"
-			"ypos_lodef"	"18"
 			"zpos"			"3"
 			"wide"			"60"
-			"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"font"			"HudFontGarm3nTiniest"
-				"ypos"			"2"
+				"font"		"HudFontGarm3nTiniest"
 			}
 		}	
 	}

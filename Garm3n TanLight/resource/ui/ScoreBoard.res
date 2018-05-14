@@ -95,13 +95,10 @@
 
 		if_mvm
 		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"MainBG"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"600"
 			"tall"			"448"
-			"border"		"TFThinLineBorder"
 		}
 	}							
 	"BlueTeamLabel"

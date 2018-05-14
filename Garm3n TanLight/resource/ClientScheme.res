@@ -6753,137 +6753,137 @@ Scheme
 		}
 		"7" 
 		{
-			"font" "resource/BRAILLE1_0.ttf"
+			"font" "resource/fonts/BRAILLE1_0.ttf"
 			"name" "BRAILLE1_0"
 		}			
 		"8" 
 		{
-			"font" "resource/FORMASGE.ttf"
+			"font" "resource/fonts/FORMASGE.ttf"
 			"name" "FORMASGE"
 		}			
 		"9" 
 		{
-			"font" "resource/SF Distant Galaxy.ttf"
+			"font" "resource/fonts/SF Distant Galaxy.ttf"
 			"name" "SF Distant Galaxy"
 		}			
 		"10" 
 		{
-			"font" "resource/symbol.ttf"
+			"font" "resource/fonts/symbol.ttf"
 			"name" "symbol"
 		}
 		"11" 
 		{
-			"font" "resource/PANNETJE.TTF"
+			"font" "resource/fonts/PANNETJE.TTF"
 			"name" "PANNETJE"
 		}
 		"12" 
 		{
-			"font" "resource/SF Theramin Gothic.ttf"
+			"font" "resource/fonts/SF Theramin Gothic.ttf"
 			"name" "SF Theramin Gothic"
 		}
 		"13" 
 		{
-			"font" "resource/BULLBA__0.TTF"
+			"font" "resource/fonts/BULLBA__0.TTF"
 			"name" "BULLBA__0"
 		}
 		"14" 
 		{
-			"font" "resource/kadosh_samaritan_1.ttf"
+			"font" "resource/fonts/kadosh_samaritan_1.ttf"
 			"name" "kadosh_samaritan_1"
 		}
 		"15" 
 		{
-			"font" "resource/KozGoPro-ExtraLight.otf"
+			"font" "resource/fonts/KozGoPro-ExtraLight.otf"
 			"name" "KozGoPro-ExtraLight"
 		}
 		"16" 
 		{
-			"font" "resource/TECHNOID.TTF"
+			"font" "resource/fonts/TECHNOID.TTF"
 			"name" "TECHNOID"
 		}
 		"17" 
 		{
-			"font" "resource/ALMAO__.TTF"
+			"font" "resource/fonts/ALMAO__.TTF"
 			"name" "ALMAO__"
 		}
 		"18" 
 		{
-			"font" "resource/2THELD_.TTF"
+			"font" "resource/fonts/2THELD_.TTF"
 			"name" "2THELD_"
 		}
 		"19" 
 		{
-			"font" "resource/button1.TTF"
+			"font" "resource/fonts/button1.TTF"
 			"name" "button1"
 		}
 		"20" 
 		{
-			"font" "resource/FMSYMB.TTF"
+			"font" "resource/fonts/FMSYMB.TTF"
 			"name" "FMSYMB"
 		}
 		"21" 
 		{
-			"font" "resource/STYLBCC.TTF"
+			"font" "resource/fonts/STYLBCC.TTF"
 			"name" "STYLBCC"
 		}
 		"22" 
 		{
-			"font" "resource/BOOMBOX.TTF"
+			"font" "resource/fonts/BOOMBOX.TTF"
 			"name" "BOOMBOX"
 		}
 		"23" 
 		{
-			"font" "resource/Devil_inside.ttf"
+			"font" "resource/fonts/Devil_inside.ttf"
 			"name" "Devil_inside"
 		}
 		"24" 
 		{
-			"font" "resource/Guifx v2 Transports.ttf"
+			"font" "resource/fonts/Guifx v2 Transports.ttf"
 			"name" "Guifx v2 Transports"
 		}
 		"25" 
 		{
-			"font" "resource/framd.ttf"
+			"font" "resource/fonts/framd.ttf"
 			"name" "framd"
 		}
 		"26" 
 		{
-			"font" "resource/m.ttf"
+			"font" "resource/fonts/m.ttf"
 			"name" "m"
 		}
 		"27" 
 		{
-			"font" "resource/ariblk.ttf"
+			"font" "resource/fonts/ariblk.ttf"
 			"name" "ariblk"
 		}
 		"28" 
 		{
-			"font" "resource/Arista2.0 light.ttf"
+			"font" "resource/fonts/Arista2.0 light.ttf"
 			"name" "Arista2.0 light"
 		}
 		"29" 
 		{
-			"font" "resource/Cerebro.ttf"
+			"font" "resource/fonts/Cerebro.ttf"
 			"name" "Cerebro"
 		}
 		"30" 
 		{
-			"font" "resource/Garm3nFont.ttf"
+			"font" "resource/fonts/Garm3nFont.ttf"
 			"name" "Garm3nFont"
 		}
 		"31" 
 		{
-			"font" "resource/Soldier.ttf"
+			"font" "resource/fonts/Soldier.ttf"
 			"name" "Soldier"
 		}
 		"32" 
 		{
-			"font" "resource/PIZZADUDEBULLETS.ttf"
+			"font" "resource/fonts/PIZZADUDEBULLETS.ttf"
 			"name" "PIZZADUDEBULLETS"
 		}
 		"33" 
 		{
-			"font" "resource/emoticons.ttf"
+			"font" "resource/fonts/emoticons.ttf"
 			"name" "emoticons"
 		}			
 	}
