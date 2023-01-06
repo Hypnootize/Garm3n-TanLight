@@ -1,12 +1,7 @@
 # Garm3n-TanLight
-Screenshots: https://imgur.com/a/JYBQB
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/JYBQB)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 155
-
-hud_combattext_green 105
-
-hud_combattext_blue 155
+![](https://i.imgur.com/DTkPrrI.jpg)
